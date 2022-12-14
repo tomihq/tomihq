@@ -1,7 +1,7 @@
 Hi 👋 My name is Tomas Agustín Hernández
 ========================================
 
-PERN Full-Stack Developer
+M/PERN Full-Stack Developer
 -------------------------
 
 * 🌍  I'm based in Capital Federal, Argentina
