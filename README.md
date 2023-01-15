@@ -1,9 +1,10 @@
 Hi 👋 My name is Tomas Agustín Hernández
 ========================================
 
-M/PERN Full-Stack Developer
+Software Engineer
 -------------------------
 
+* 🧠 I'm working full time as Software Engineer in Gransliving. 
 * 🌍  I'm based in Capital Federal, Argentina
 * ✉️  You can contact me at [hernandeztomas584@gmail.com](mailto:hernandeztomas584@gmail.com)
 * 🧠  I'm learning NextJS, Sockets and Algorithms and Data Estructures
