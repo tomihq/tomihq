@@ -1,4 +1,5 @@
 Hi 👋 My name is Tomas Agustín Hernández
+![](https://komarev.com/ghpvc/?username=tomihq)
 ========================================
 
 Software Engineer
