@@ -1,5 +1,4 @@
 <h2 align="center"> Hi 👋 My name is Tomas Agustín Hernández </h2>
-<p> https://www.tomashernandez.tech/ </p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tomihq"/> 
 </p>
@@ -23,10 +22,13 @@
 }
 
 
-
-
 <h2 align="center"> ⭐ Check out my portfolio! </h2>
-<a href="https://tomihq-portfolio-v2.vercel.app/" target="_blank"> Click here!</a>  
+<p align="center">
+    <a href="https://tomihq-portfolio-v2.vercel.app/" target="_blank"> <img src="https://i.imgur.com/HYdhT58.png" width=500  type="png"/> </a>
+    <br/>
+    <a href="https://tomihq-portfolio-v2.vercel.app/" target="_blank"> Click here!</a>
+</p>
+  
 
 
 <h2 align="center">📘 Education </h2>
