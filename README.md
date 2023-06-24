@@ -12,11 +12,11 @@
 
 {  
 
-* 👂 `My name is`: **Tom**,
-* 👩 `Pronouns`: **He/Him**,
-* ⚡ `I'm`: **21 years old**,
-* 🌱 `I’m currently learning`: **Algebra**,
-* ❤️ `I love`: **Coffee**  ,
+* 👂 `My name is`: **Tom**
+* 👩 `Pronouns`: **He/Him**
+* ⚡ `I'm`: **21 years old**
+* 🌱 `I’m currently learning`: **Algebra**
+* ❤️ `I love`: **Coffee**  
 * 💻 `Favorite lang`: **TypeScript**
   
 }
@@ -24,9 +24,9 @@
 <h2>📘 Education </h2>
 {  
 
-* 👨‍🎓 `2015-2020`: **Computer technician oriented to scalable software.**,
-* 📘 `Now`: **Focusing to get a degree in Computer Science (UBA)**,
-* 🌟 `Future Goal`: **Get a PhD in Computer Science (UBA)**,
+* 👨‍🎓 `2015-2020`: **Computer technician oriented to scalable software.**
+* 📘 `Now`: **Focusing to get a degree in Computer Science (UBA)**
+* 🌟 `Future Goal`: **Get a PhD in Computer Science (UBA)**
 
 }
 
