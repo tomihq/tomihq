@@ -1,5 +1,7 @@
 <h2 align="center"> Hi 👋 My name is Tomas Agustín Hernández </h2>
+<p> https://www.tomashernandez.tech/ </p>
 <p align="center">
+    
     <img src="https://komarev.com/ghpvc/?username=tomihq"/> 
 </p>
 
@@ -20,6 +22,13 @@
 * 💻 `Favorite lang`: **TypeScript**
   
 }
+
+
+
+
+<h2 align="center"> ⭐ Check out my portfolio! </h2>
+<a href="https://tomihq-portfolio-v2.vercel.app/" target="_blank"> Click here!</a>  
+
 
 <h2 align="center">📘 Education </h2>
 {  
