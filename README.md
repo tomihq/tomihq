@@ -84,4 +84,6 @@
 <a href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 
 <h2 align="center">💡 Freelance work </h2>
-<a href="https://rekon-media.vercel.app/" target="_blank"> RekonMedia </a>
+<ul>
+    <li> <a href="https://rekon-media.vercel.app/" target="_blank"> RekonMedia </a> </li>
+</ul>
