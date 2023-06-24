@@ -1,6 +1,8 @@
 <h2 align="center"> Hi 👋 My name is Tomas Agustín Hernández </h2>
-![](https://komarev.com/ghpvc/?username=tomihq)
-========================================
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tomihq"/> 
+</p>
+
 {  
 
 * 👂 `My name is`: **Tom**,
