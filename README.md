@@ -1,7 +1,6 @@
 <h2 align="center"> Hi 👋 My name is Tomas Agustín Hernández </h2>
 <p> https://www.tomashernandez.tech/ </p>
 <p align="center">
-    
     <img src="https://komarev.com/ghpvc/?username=tomihq"/> 
 </p>
 
