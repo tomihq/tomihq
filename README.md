@@ -7,7 +7,7 @@
     <img src="https://media.tenor.com/2ePv10lBD6EAAAAd/cat-kitty.gif" width=350 height=200 /> 
 </p>
 
-<h2>💡 Goal: Creating Inclusive, Secure, and Scalable Software for Complex Tasks</h2>
+<h2 align="center">💡 Goal: Creating Inclusive, Secure, and Scalable Software for Complex Tasks</h2>
 <p>My goal is to bring technology to those who need it most by creating fast, scalable, and secure software that enables you to accomplish complex tasks through small steps.</p>
 
 {  
@@ -21,7 +21,7 @@
   
 }
 
-<h2>📘 Education </h2>
+<h2 align="center">📘 Education </h2>
 {  
 
 * 👨‍🎓 `2015-2020`: **Computer technician oriented to scalable software.**
@@ -30,7 +30,7 @@
 
 }
 
-<h2>🖥️ Skills </h2>
+<h2 align="center">🖥️ Skills </h2>
 <h3> 💻 Programming languages (including markup) </h3>
 <a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
