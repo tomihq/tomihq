@@ -27,8 +27,22 @@
 * 👨‍🎓 `2015-2020`: **Computer technician oriented to scalable software.**,
 * 📘 `Now`: **Focusing to get a degree in Computer Science (UBA)**,
 * 🌟 `Future Goal`: **Get a PhD in Computer Science (UBA)**,
-  
+
 }
+
+<h2>🖥️ Skills </h2>
+
+<h3> Programming languages (including markup) </h3>
+
+<h3> Frameworks and Libraries </h3>
+
+<h3> Cloud & Databases </h3>
+
+<h3> Software </h3>
+
+
+
+
 
 ### Skills
 
