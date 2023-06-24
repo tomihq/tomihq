@@ -1,7 +1,16 @@
-Hi 👋 My name is Tomas Agustín Hernández
+<h2 align="center"> Hi 👋 My name is Tomas Agustín Hernández </h2>
 ![](https://komarev.com/ghpvc/?username=tomihq)
 ========================================
+{  
 
+* 👂 `My name is`: **Tom**,
+* 👩 `Pronouns`: **He/Him**,
+* ⚡ `I'm`: **21 years old**,
+* 🌱 `I’m currently learning`: **Algebra**,
+* ❤️ `I love`: **Coffee**  ,
+* 💻 `Favorite lang`: **TypeScript**  
+
+}
 Software Engineer
 -------------------------
 
