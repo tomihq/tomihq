@@ -3,6 +3,9 @@
     <img src="https://komarev.com/ghpvc/?username=tomihq"/> 
 </p>
 
+<h2>📘 Goal: Creating Inclusive, Secure, and Scalable Software for Complex Tasks</h2>
+<p>My goal is to bring technology to those who need it most by creating fast, scalable, and secure software that enables you to accomplish complex tasks through small steps.</p>
+
 {  
 
 * 👂 `My name is`: **Tom**,
@@ -10,10 +13,11 @@
 * ⚡ `I'm`: **21 years old**,
 * 🌱 `I’m currently learning`: **Algebra**,
 * ❤️ `I love`: **Coffee**  ,
-* 💻 `Favorite lang`: **TypeScript**  
-
+* 💻 `Favorite lang`: **TypeScript**
+  
 }
-Software Engineer
+
+
 -------------------------
 
 * 🧠 I'm working full time as Software Engineer in Gransliving. 
