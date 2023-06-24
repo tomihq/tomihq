@@ -31,14 +31,15 @@
 }
 
 <h2>🖥️ Skills </h2>
+<h3> 💻 Programming languages (including markup) </h3>
 
-<h3> Programming languages (including markup) </h3>
+<h3> 📚 Frameworks and Libraries </h3>
 
-<h3> Frameworks and Libraries </h3>
+<h3> ☁ Cloud & Databases </h3>
 
-<h3> Cloud & Databases </h3>
+<h3> ⚙ Software </h3>
+<a href="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 
-<h3> Software </h3>
 
 
 
