@@ -7,7 +7,7 @@
     <img src="https://media.tenor.com/2ePv10lBD6EAAAAd/cat-kitty.gif" width=350 height=200 /> 
 </p>
 
-<h2>📘 Goal: Creating Inclusive, Secure, and Scalable Software for Complex Tasks</h2>
+<h2>💡 Goal: Creating Inclusive, Secure, and Scalable Software for Complex Tasks</h2>
 <p>My goal is to bring technology to those who need it most by creating fast, scalable, and secure software that enables you to accomplish complex tasks through small steps.</p>
 
 {  
@@ -21,15 +21,14 @@
   
 }
 
+<h2>📘 Education </h2>
+{  
 
--------------------------
-
-* 🧠 I'm working full time as Software Engineer in Gransliving. 
-* 🌍  I'm based in Capital Federal, Argentina
-* ✉️  You can contact me at [hernandeztomas584@gmail.com](mailto:hernandeztomas584@gmail.com)
-* 🧠  I'm learning NextJS, Sockets and Algorithms and Data Estructures
-* 🤝  I'm open to collaborating on Everything who includes sockets.
-* ⚡  I am very bad at choosing animations for my web pages.
+* 👨‍🎓 `2015-2020`: **Computer technician oriented to scalable software.**,
+* 📘 `Now`: **Focusing to get a degree in Computer Science (UBA)**,
+* 🌟 `Future Goal`: **Get a PhD in Computer Science (UBA)**,
+  
+}
 
 ### Skills
 
