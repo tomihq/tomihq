@@ -85,5 +85,5 @@
 
 <h2 align="center">💡 Freelance work </h2>
 <ul>
-    <li> <a href="https://rekon-media.vercel.app/" target="_blank"> RekonMedia </a> </li>
+    <li> <a href="https://rekon-media.vercel.app/" target="_blank"> RekonMedia (Delievered 26/6/2023 and not supported anymore) </a> </li>
 </ul>
