@@ -15,7 +15,7 @@
 * 👂 `My name is`: **Tom**
 * 👩 `Pronouns`: **He/Him**
 * ⚡ `I'm`: **21 years old**
-* 🌱 `I’m currently learning`: **Algebra**
+* 🌱 `I’m currently learning`: **Django**
 * ❤️ `I love`: **Coffee**  
 * 💻 `Favorite lang`: **TypeScript**
   
