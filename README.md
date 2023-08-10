@@ -7,7 +7,7 @@
     <img src="https://media.tenor.com/2ePv10lBD6EAAAAd/cat-kitty.gif" width=350 height=200 /> 
 </p>
 
-<h2 align="center">💡 Goal: Creating Inclusive, Secure, and Scalable Software for Complex Tasks</h2>
+<h2 align="center">💡 Goal: Creating Inclusive, Secure, Accessible, and Scalable Software for everyone. </h2>
 <p>My goal is to bring technology to those who need it most by creating fast, scalable, and secure software that enables you to accomplish complex tasks through small steps.</p>
 
 {  
