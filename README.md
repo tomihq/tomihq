@@ -14,8 +14,8 @@
 
 * 👂 `My name is`: **Tom**
 * 👩 `Pronouns`: **He/Him**
-* ⚡ `I'm`: **21 years old**
-* 🌱 `I’m currently learning`: **Django**
+* ⚡ `I'm`: **22 years old**
+* 🌱 `I’m currently learning`: **Sequelize & Nest.js**
 * ❤️ `I love`: **Coffee**  
 * 💻 `Favorite lang`: **TypeScript**
   
