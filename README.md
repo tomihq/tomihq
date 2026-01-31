@@ -10,7 +10,7 @@ I'm a **Software Engineer** with a strong backend foundation and a full-stack mi
 - 🔭 **Currently:** Software Engineer at [DocDental](https://docdental.com) (Germany/Remote).
 - 🎓 **Education:** B.S. in Computer Science student at **University of Buenos Aires (UBA)**.
 - ⚙️ **The Vibe:** I value technical excellence and autonomy. I balance speed of delivery with long-term reliability.
-- 🕹️ **Legacy:** I've been breaking and playing video games since I was 6 years old—logic and systems are my natural language.
+- 🕹️ **Legacy:** I've been breaking and playing video games since I was 6 years old
 
 ---
 
