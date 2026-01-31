@@ -14,6 +14,15 @@ I'm a **Software Engineer** with a strong backend foundation and a full-stack mi
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomihq&show_icons=true&theme=tokyonight&count_private=true" alt="Tomás's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomihq&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🌱 My Skills
 
 ### 💻 Programming languages (and html)
