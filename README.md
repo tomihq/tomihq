@@ -1,10 +1,6 @@
-# Hi there, I'm Tomás Hernández 👋
+# Hi, I'm Tomás 🐢
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-Backend_Focused-3178C6?style=for-the-badge" alt="Software Engineer">
-  <img src="https://img.shields.io/badge/UBA-Computer_Science_Student-gold?style=for-the-badge" alt="UBA Student">
-  <img src="https://img.shields.io/badge/Infrastructure-Self--Managed-2ea44f?style=for-the-badge" alt="Infra">
-</p>
+`software engineer` 🌱 :: `backend enthusiast` 🍒 :: `infrastructure & scaling` 🍉 :: `cs student @uba` 🐸 :: `fullstack dev` ☕ :: `gamer since age 6` 🎮 :: `cloud & devops` ☁ 
 
 ---
 
@@ -13,8 +9,8 @@ I'm a **Software Engineer** with a strong backend foundation and a full-stack mi
 
 - 🔭 **Currently:** Software Engineer at [DocDental](https://docdental.com) (Germany/Remote).
 - 🎓 **Education:** B.S. in Computer Science student at **University of Buenos Aires (UBA)**.
-- ⚙️ **The Vibe:** I value technical excellence and autonomy. I'm always looking for the most efficient way to solve a problem, balancing speed of delivery with long-term reliability.
-- 🛠️ **Hands-on:** I enjoy the challenge of migrating systems with zero downtime and optimizing infrastructure to keep things lean and fast.
+- ⚙️ **The Vibe:** I value technical excellence and autonomy. I balance speed of delivery with long-term reliability.
+- 🕹️ **Legacy:** I've been breaking and playing video games since I was 6 years old—logic and systems are my natural language.
 
 ---
 
@@ -23,9 +19,9 @@ I'm a **Software Engineer** with a strong backend foundation and a full-stack mi
 ### 💻 Programming languages (and html)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -49,26 +45,30 @@ I'm a **Software Engineer** with a strong backend foundation and a full-stack mi
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)
 
 ### ☁ Cloud and Providers
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
 ### 🧠 Beyond the Code
-When I'm not programming, I'm usually:
-* 📚 **Reading:** I’m a curious person who loves deep-diving into new topics.
-* 🏋️ **Training:** I enjoy pushing my physical limits as much as my technical ones.
-* 🌊 **Surfing:** My favorite way to disconnect and recharge.
-* 🧘 **Meditating:** Keeping the mind clear and focused.
-* ☕ **Coffee:** Always exploring better beans and brews.
-* 🐾 **Gatitos:** Playing and hanging out with my cats.
+When I'm not in front of a terminal:
+* 🏋️ **Training:** Pushing physical limits daily.
+* 🌊 **Surfing:** Finding balance in the ocean.
+* 📚 **Reading:** Deep-diving into tech, philosophy, and new perspectives.
+* 🧘 **Meditating:** Keeping the mental stack clear.
+* 🐾 **Gatitos:** Spending time with my cats.
+* 🎮 **Gaming:** A hobby that started at age 6 and sparked my curiosity for how systems work.
+* ☕ **Coffee:** High-quality beans only.
 
 ---
 
