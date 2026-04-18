@@ -78,7 +78,7 @@ When I'm not in front of a terminal:
 * 🐾 **Gatitos:** Spending time with my cats.
 * 🎮 **Gaming:** A hobby that started at age 6 and sparked my curiosity for how systems work.
 * ☕ **Coffee:** High-quality beans only.
-* 🎤 **Karaoke: ** I love doing karaoke with friends
+* 🎤 **Karaoke:** I love doing karaoke with friends
 
 ---
 
