@@ -7,8 +7,7 @@
 ### 🚀 About Me
 I'm a **Software Engineer** with a strong backend foundation and a full-stack mindset. My focus is on building things that actually work, scale, and stay maintainable over time. I enjoy taking ownership of the entire lifecycle of a product, from the first line of code to the infrastructure it runs on.
 
-- 🔭 **Currently:** Software Engineer at [DocDental](https://docdental.com) (Germany/Remote).
-- 🎓 **Education:** B.S. in Computer Science student at **University of Buenos Aires (UBA)**.
+- 🎓 **Education:** MSc. in Computer Science student at **University of Buenos Aires (UBA)**.
 - ⚙️ **The Vibe:** I value technical excellence and autonomy. I balance speed of delivery with long-term reliability.
 - 🕹️ **Legacy:** I've been breaking and playing video games since I was 6 years old
 
